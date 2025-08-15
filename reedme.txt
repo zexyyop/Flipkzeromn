@@ -1,0 +1,2 @@
+first import database fk-1.sql in your hosting and create database 
+then conect the database in 'config.php' file 
